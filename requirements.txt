@@ -1,0 +1,4 @@
+asyncio==3.4.3
+paho-mqtt==1.6.1
+pymodbus==3.3.2
+pymongo==4.3.3

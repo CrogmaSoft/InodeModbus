@@ -1,0 +1,7 @@
+{
+    "operator_id": null,
+    "mongo_config": {
+        "conn_str": "mongodb://username:password@127.0.0.1:27017/?authMechanism=DEFAULT"
+    },
+    "modbus_config": {}
+}
